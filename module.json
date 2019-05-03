@@ -1,0 +1,11 @@
+{
+    "name": "Red-and-Gray-HP-Bar-Persona-5-inspired",
+    "category": "client",
+    "description": "Custom HP/MP bar, laurel, class window, animations and red icon accents.",
+    "author": "Raven",
+    "options": {
+        "guiName": "UI: Red and Gray HP Bar Persona 5",
+        "niceName": "Red and Gray HP Bar Persona 5 inspired"
+    },
+    "servers": ["https://raw.githubusercontent.com/RavenMods/Red-and-Gray-HP-Bar-Persona-5-inspired/master/"]
+}
