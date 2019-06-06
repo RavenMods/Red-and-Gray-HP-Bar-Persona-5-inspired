@@ -7,5 +7,6 @@
         "guiName": "UI: Red and Gray HP Bar Persona 5",
         "niceName": "Red and Gray HP Bar Persona 5 inspired"
     },
-    "servers": ["https://raw.githubusercontent.com/RavenMods/Red-and-Gray-HP-Bar-Persona-5-inspired/master/"]
+    "servers": ["https://raw.githubusercontent.com/RavenMods/Red-and-Gray-HP-Bar-Persona-5-inspired/master/"],
+    "disableAutoUpdate": false
 }
